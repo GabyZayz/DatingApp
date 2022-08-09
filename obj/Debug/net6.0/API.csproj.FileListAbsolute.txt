@@ -33,3 +33,9 @@
 /Users/gabrielazayas/Documents/DatingApp/API/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
 /Users/gabrielazayas/Documents/DatingApp/API/bin/Debug/net6.0/Humanizer.dll
 /Users/gabrielazayas/Documents/DatingApp/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/gabrielazayas/Documents/DatingApp/API/bin/Debug/net6.0/client/angular.json
+/Users/gabrielazayas/Documents/DatingApp/API/bin/Debug/net6.0/client/package-lock.json
+/Users/gabrielazayas/Documents/DatingApp/API/bin/Debug/net6.0/client/package.json
+/Users/gabrielazayas/Documents/DatingApp/API/bin/Debug/net6.0/client/tsconfig.app.json
+/Users/gabrielazayas/Documents/DatingApp/API/bin/Debug/net6.0/client/tsconfig.json
+/Users/gabrielazayas/Documents/DatingApp/API/bin/Debug/net6.0/client/tsconfig.spec.json

@@ -29,12 +29,14 @@ namespace API.Controllers
 
             return  await _context.Users.FindAsync(Id);;
         }
-        [HttpPost("CreateUser")]
-        public async Task<IActionResult> CreateUser(AppUser user){
+
+
+        [HttpPost]
+        public async Task<IActionResult>Create([FromBody] AppUser user){
         
             _context.Users.Add(user);
            await _context.SaveChangesAsync();
-           return Ok();
+           return Ok("Data changed");
         }       
     }
 }
